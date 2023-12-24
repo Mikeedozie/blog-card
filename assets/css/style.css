@@ -97,8 +97,11 @@ body{
     font-family: Figtree-x;
     cursor: pointer;
 }
+.container .container__body{
+    font-family: Figtree-xl;
+}
 .card__body div img{
-    width: 50px;
+    width: 35px;
     cursor:pointer;
 }
 
