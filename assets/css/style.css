@@ -68,14 +68,14 @@ body{
     font-weight: 700;
     cursor: pointer;
 }
-.tag_date div:nth-child(2){
-}
+
 
 .card__body{
     line-height: 1.5;
     display: flex;
     flex-direction: column;
-    gap: .5rem;
+    gap: .75rem;
+    margin-top: .5rem;
 }
 
 .card__body h4{
